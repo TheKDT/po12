@@ -1,0 +1,19 @@
+//download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"><param name="movie" value="' + a + '"><param name = "FlashVars" value = "activeCallback=' + b + '" /><param name = "allowScriptAccess" value = "always" /><embed name="' + g.SWFRequest._tmpId + '" src="' + a + '" type="application/x-shockwave-flash" pluginspage="' + h + '://www.macromedia.com/go/getflashplayer" width="1" height="1" allowScriptAccess="always" swLiveConnect="true" FlashVars="activeCallback=' + b + '"></embed></object></div>');
+//nid.naver.com/nidlogin.login?url=" + encodeURIComponent(a);
+//nid.naver.com/nidlogin.login?svctype=64?url=" + encodeURIComponent(a), "", "titlebar=no, menubar=no, toolbar=no, location=no, scrollbars=yes, status=no, resizable=yes,width=450px,height=410px");
+//nid.naver.com/nidlogin.logout?svctype=262144&returl=" + encodeURIComponent(a);
+//nid.naver.com/user2/help/realNameCheck.nhn?type=3&rurl=" + encodeURIComponent(a);
+//dev-member.webtoon.naver.com/pc_web/agree/adult/form.nhn";
+//stg-member.webtoon.naver.com/pc_web/agree/adult/form.nhn";
+//member.webtoon.naver.com/pc_web/agree/adult/form.nhn";
+//ssl.pstatic.net/static/m/nstore/thumb/no/";
+//ssl.pstatic.net/static/m/nstore/op/thumb/19/";
+//webmsg.naver.com/api/send_url.php?NHN_CODE=" + b + "&SMSID=ESW00017&MMSID=EMG00005" + h + g + a, "sms_popup", "toolbar=no,scrollbars=1,width=285,height=402,top=100,left=100,resizable=yes");
+//" + m.host;
+//.test(h)) {
+//" + ccsrv) == 0) {
+//" + ccsrv + "/" + nclkModule + "?a=" + aa + "&r=" + ae + "&i=" + al;
+//" + ccsrv) != 0 && ai.toLowerCase() != "img") {
+//" + window.lcs_SerName + "/m?";
+//event.naver.com/prize_addr/sms1ForPrwinNoti.php", "", "width=780, height=700");
+//event.naver.com/prize_addr/nstore_movie_event", "", "width=780, height=700");
